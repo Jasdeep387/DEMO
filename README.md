@@ -1,4 +1,5 @@
 # DEMO
 THIS IS DEMO GITHUB PROJECT.
 <br>
-Author- Jasdeep Kaur
+Author- Jasdeep Kaur (student)
+
